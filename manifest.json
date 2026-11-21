@@ -1,0 +1,68 @@
+{
+ "id": "/",
+ "name": "NU Smart – MWC NU Pasean",
+ "short_name": "NU Smart",
+ "description": "Aplikasi NU Smart MWC NU Pasean: jadwal sholat, Al-Qur'an, wirid dan doa, tahlil, kiblat, zakat, kalender Hijriah, dan berita NU Pasean.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#ffffff",
+ "theme_color": "#064E3B",
+ "lang": "id",
+ "dir": "ltr",
+ "categories": [
+  "education",
+  "lifestyle",
+  "news"
+ ],
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/maskable-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "screenshots": [
+  {
+   "src": "screenshots/beranda.png",
+   "sizes": "720x1600",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Beranda"
+  },
+  {
+   "src": "screenshots/menu.png",
+   "sizes": "720x1600",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Semua menu"
+  },
+  {
+   "src": "screenshots/jadwal.png",
+   "sizes": "720x1600",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Jadwal sholat"
+  }
+ ]
+}
